@@ -8,7 +8,7 @@
  
   `Software Engineer - Jack of all techs, master of none`</br></br>
   
-  We all know that when it comes down to writing about us, stuff is hard. So, I did what a reasonable and sound person would do in 2024 - ask ChatGPT to generate some cliché descriptions. Please select one the following ones that best adapts to your own taste.</br></br>
+  We all know that when it comes down to writing about ourselves, stuff is hard. So, I did what a reasonable and sound person would do in 2024 - ask ChatGPT to generate some cliché descriptions. Please select one the following ones that best adapts to your own taste.</br></br>
   
   `Option 1`
   > Hey, fellow coders! 👨‍💻 I'm a Full Stack Developer who loves turning ideas into reality through the power of code. My focus is on creating seamless user experiences and scalable applications using a mix of modern technologies.
@@ -134,6 +134,8 @@
 </details>
 
 #
+
+</br>
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
