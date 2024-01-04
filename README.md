@@ -3,7 +3,7 @@
 ### Hey there 👋🏻, I'm Luís Rodrigues
 
 #
-<details>
+<details open>
  <summary><h3>👀 About</h3></summary>
  
   `Software Engineer - Jack of all techs, master of none`</br></br>
@@ -19,12 +19,12 @@
   `Option 3`
   > G'day coders! 👋 I'm a Full Stack Coder building digital things that go beyond Vegemite sandwiches. From pixel-perfect front-ends to server-side barbecues, let's cook up some code together!
   
-  </br>On a more serious note, I'm a Software Engineer with about 6 years of experience in Software Development, both on FrontEnd and (more recently) on the BackEnd. Due to the fact that I've been involved on both sides of the coin, I'm able to understand the complete development lifecycle, and I am now able to annoy both parties by releasing powerful bugs. 🐞
+  </br>On a more serious note, I'm a Software Engineer with about 6 years of experience in Software Development, both on FrontEnd and (more recently) on the BackEnd. Due to the fact that I've been involved on both sides of the coin, I'm able to understand the complete development lifecycle, and I am now able to annoy both parties by releasing powerful, almighty bugs. 🐞
   </br></br>I'm driven by a passion for continuous learning, problem-solving, and creating impactful solutions.
 </details>
 
 #
-<details>
+<details open>
  <summary><h3>🛠️ Languages and Tools</h3></summary>
 
   </br>
@@ -90,7 +90,6 @@
     Windows
 
   #### 💻 Misc.
-    CSS & SASS
     Entity Framework
     gRPC
     JSON
@@ -106,6 +105,7 @@
   #### 💻 Misc.
     Adobe Illustrator
     Android Studio
+    CSS
     Dart (Flutter)
     HTML
     JavaScript
@@ -113,6 +113,7 @@
     PHP
     Pinia
     Python
+    SASS
     Shopify
     SQL
     Vuetify
@@ -121,7 +122,7 @@
   </details>
 
   <details>
-   <summary><h3>👨‍💻 Used in the past</h3></summary>
+   <summary><h3>👨‍💻 Past use</h3></summary>
 
   #### 💻 Misc.  
     DevExtreme
@@ -134,20 +135,3 @@
 </details>
 
 #
-
-</br>
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
