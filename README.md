@@ -100,7 +100,7 @@
     REST API
   </details>
 
-  <details open>
+  <details>
    <summary><h3>👨‍💻 Occasional use</h3></summary>
 
   #### 💻 Misc.
