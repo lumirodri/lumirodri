@@ -64,7 +64,7 @@
   ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
-  <details open>
+  <details>
    <summary><h3>👨‍💻 Daily use (mostly in company, as of 2024)</h3></summary>
 
   #### 💻 Tech stack
