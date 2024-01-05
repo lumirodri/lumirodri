@@ -11,7 +11,7 @@
   When it comes down to write about ourselves, stuff is hard. So, I did what a reasonable and sound person would do in 2024 - ask ChatGPT to generate some cliché descriptions. Please select one the following ones that best adapts to your own taste.</br></br>
   
   `Option 1`
-  > Hey, fellow coders! 👨‍💻 I'm a Full Stack Developer who loves turning ideas into reality through the power of code. My focus is on creating seamless user experiences and scalable applications using a mix of modern technologies.
+  > Hey, fellow coders! 👨🏻‍💻 I'm a Full Stack Developer who loves turning ideas into reality through the power of code. My focus is on creating seamless user experiences and scalable applications using a mix of modern technologies.
   
   `Option 2`
   >Full Stack Adventurer at your service! 🌍 Whether it's conquering the peaks of JavaScript or delving into the dungeons of databases, I'm here to craft epic tales of code. Let's build something legendary!
@@ -65,7 +65,7 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
   <details>
-   <summary><h3>👨‍💻 Daily use (mostly in company, as of 2024)</h3></summary>
+   <summary><h3>👨🏻‍💻 Daily use (mostly in company, as of 2024)</h3></summary>
 
   #### 💻 Tech stack
     C# (.NET)
@@ -100,7 +100,7 @@
   </details>
 
   <details>
-   <summary><h3>👨‍💻 Occasional use</h3></summary>
+   <summary><h3>👨🏻‍💻 Occasional use</h3></summary>
 
   #### 💻 Misc.
     Adobe Illustrator
@@ -122,7 +122,7 @@
   </details>
 
   <details>
-   <summary><h3>👨‍💻 Past use</h3></summary>
+   <summary><h3>👨🏻‍💻 Past use</h3></summary>
 
   #### 💻 Misc.  
     DevExtreme
