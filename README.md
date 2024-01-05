@@ -17,7 +17,7 @@
   >Full Stack Adventurer at your service! 🌍 Whether it's conquering the peaks of JavaScript or delving into the dungeons of databases, I'm here to craft epic tales of code. Let's build something legendary!
   
   `Option 3`
-  > G'day coders! 👋 I'm a Full Stack Coder building digital things that go beyond Vegemite sandwiches. From pixel-perfect front-ends to server-side barbecues, let's cook up some code together!
+  > G'day coders! 👋🏻 I'm a Full Stack Coder building digital things that go beyond Vegemite sandwiches. From pixel-perfect front-ends to server-side barbecues, let's cook up some code together!
   
   </br>On a more serious note, I'm a Software Engineer with about 6 years of experience in Software Development, both on FrontEnd and (more recently) on the BackEnd. Due to the fact that I've been involved on both sides of the coin, I'm able to understand the complete development lifecycle, and I am now able to annoy both parties by releasing powerful, almighty bugs. 🐞
   </br></br>I'm driven by a passion for continuous learning, problem-solving, and creating impactful solutions.
