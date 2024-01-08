@@ -65,7 +65,7 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
   <details>
-   <summary><h3>👨🏻‍💻 Daily use (mostly in company, as of 2024)</h3></summary>
+   <summary><h3>👨🏻‍💻 Daily use (day-to-day in work)</h3></summary>
 
   #### 💻 Tech stack
     C# (.NET)
@@ -100,7 +100,7 @@
   </details>
 
   <details>
-   <summary><h3>👨🏻‍💻 Occasional use</h3></summary>
+   <summary><h3>👨🏻‍💻 Frequent or occasional use</h3></summary>
 
   #### 💻 Misc.
     Adobe Illustrator
