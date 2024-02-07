@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=22&pause=1000&color=E68B60&background=FFFFFF00&random=false&width=435&Center=true&lines=Software+Engineer;Jack+of+all+techs%2C+master+of+none;6%2B+years+of+releasing+bugs;Always+learning...)](https://git.io/typing-svg)
-
 ### Hey there 👋🏻, I'm Luís Rodrigues
 
 #
