@@ -5,22 +5,8 @@
 #
 <details open>
  <summary><h3>👀 About</h3></summary>
- 
-  `Software Engineer - Jack of all techs, master of none`</br></br>
-  
-  When it comes down to write about ourselves, stuff is hard. So, I did what a reasonable and sound person would do in 2024 - ask ChatGPT to generate some cliché descriptions. Please select one the following ones that best adapts to your own taste.</br></br>
-  
-  `Option 1`
-  > Hey, fellow coders! 👨🏻‍💻 I'm a Full Stack Developer who loves turning ideas into reality through the power of code. My focus is on creating seamless user experiences and scalable applications using a mix of modern technologies.
-  
-  `Option 2`
-  >Full Stack Adventurer at your service! 🌍 Whether it's conquering the peaks of JavaScript or delving into the dungeons of databases, I'm here to craft epic tales of code. Let's build something legendary!
-  
-  `Option 3`
-  > G'day coders! 👋🏻 I'm a Full Stack Coder building digital things that go beyond Vegemite sandwiches. From pixel-perfect front-ends to server-side barbecues, let's cook up some code together!
-  
-  </br>On a more serious note, I'm a Software Engineer with about 6 years of experience in Software Development, both on FrontEnd and (more recently) on the BackEnd. Due to the fact that I've been involved on both sides of the coin, I'm able to understand the complete development lifecycle, and I am now able to annoy both parties by releasing powerful, almighty bugs. 🐞
-  </br></br>I'm driven by a passion for continuous learning, problem-solving, and creating impactful solutions.
+  </br>I'm a seasoned Software Engineer with over six years of experience in both Frontend and Backend development. My journey across the full development spectrum has equipped me with a comprehensive understanding of Software Architecture. However, my diverse background doesn't come without its quirks, and with great power comes great responsibility; I've been known to release the occasional bug that manages to surprise both frontend and backend teams alike. 🐞
+  </br></br>Driven by a relentless passion for learning and problem-solving, I'm committed to craft impactful solutions that drive innovation, efficiency and performance.
 </details>
 
 #
@@ -63,75 +49,6 @@
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- 
-  <details>
-   <summary><h3>👨🏻‍💻 Daily use (day-to-day in work)</h3></summary>
-
-  #### 💻 Tech stack
-    C# (.NET)
-    Java
-    TypeScript (VueJS, Electron, NodeJS)
-
-  #### 💻 Tools and Software
-    Apache APISIX
-    Apache Kafka
-    Azure DevOps (CI/CD)
-    Drools (jBPM)
-    Git
-    Postman
-
-  #### 💻 IDE
-    IntelliJ IDEA
-    Visual Studio
-    Visual Studio Code
-
-  #### 💻 OS
-    Linux (RHEL)
-    Windows
-
-  #### 💻 Misc.
-    Entity Framework
-    gRPC
-    JSON
-    JWT
-    LINQ
-    Oracle DB
-    REST API
-  </details>
-
-  <details>
-   <summary><h3>👨🏻‍💻 Frequent or occasional use</h3></summary>
-
-  #### 💻 Misc.
-    Adobe Illustrator
-    Android Studio
-    CSS
-    Dart (Flutter)
-    HTML
-    JavaScript
-    Kotlin
-    PHP
-    Pinia
-    Python
-    SASS
-    Shopify
-    SQL
-    Vuetify
-    Vuex
-    Wordpress
-  </details>
-
-  <details>
-   <summary><h3>👨🏻‍💻 Past use</h3></summary>
-
-  #### 💻 Misc.  
-    DevExtreme
-    JIRA
-    jQuery
-    Laravel
-    NativeScript-Vue
-    PostgreSQL
-  </details>
 </details>
 
 #
