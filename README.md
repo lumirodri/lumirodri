@@ -3,7 +3,7 @@
 #
 <details open>
  <summary><h3>👀 About</h3></summary>
-  </br>I'm a seasoned Software Engineer with over six years of experience in both Frontend and Backend development. My journey across the full development spectrum has equipped me with a comprehensive understanding of Software Architecture. However, my diverse background doesn't come without its quirks, and with great power comes great responsibility; I've been known to release the occasional bug that manages to surprise both frontend and backend teams alike. 🐞
+  </br>I'm a seasoned Software Engineer with over six years of experience in both Frontend and Backend development. My journey across the full development spectrum has equipped me with a comprehensive understanding of Software Architecture. However, my diverse background doesn't come without its quirks, and with great power comes great responsibility; every now and then, I might sprinkle in a bug or two to keep things interesting 🐞
   </br></br>Driven by a relentless passion for learning and problem-solving, I'm committed to craft impactful solutions that drive innovation, efficiency and performance.
 </details>
 
